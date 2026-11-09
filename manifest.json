@@ -1,7 +1,7 @@
 {
   "name": "astrbot-seio-stickers",
   "display_name": "AstrBot seio娘表情包",
-  "version": "2026.09",
+  "version": "2026.10",
   "description": "AstrBot seio娘 GIF 表情资源。",
   "stickers": [
     {
@@ -1459,6 +1459,202 @@
       "path": "stickers/208_饮料(能量饮料2).gif",
       "size": 1727372,
       "sha256": "213ea60bb0444fabe0fa3036aa48406365a8400bd99a9f89863280d682fcf1e8"
+    },
+    {
+      "id": "209",
+      "name": "书(脸红)",
+      "path": "stickers/209_书(脸红).gif",
+      "size": 4621567,
+      "sha256": "e88ce6abb6241771c8c27c8752de065aaaed8678bd4a5da256a8b01a0f9c63eb"
+    },
+    {
+      "id": "210",
+      "name": "书(阅读)",
+      "path": "stickers/210_书(阅读).gif",
+      "size": 4553417,
+      "sha256": "e57fb1d7211b5ffc3cf0f9522534aafa2c5717b8f574ccd033a373679da7b982"
+    },
+    {
+      "id": "211",
+      "name": "南瓜",
+      "path": "stickers/211_南瓜.gif",
+      "size": 1557574,
+      "sha256": "9c0d06bdd3bfbb559789069721f9913ac3f29821c8d38656706bed0b72861491"
+    },
+    {
+      "id": "212",
+      "name": "受伤",
+      "path": "stickers/212_受伤.gif",
+      "size": 917428,
+      "sha256": "29412b0723837fd7663fec130657c7944b5ed1d687210acf9b040d4d42886ddf"
+    },
+    {
+      "id": "213",
+      "name": "吹鼻子",
+      "path": "stickers/213_吹鼻子.gif",
+      "size": 2720687,
+      "sha256": "71585b675ab60e3ba4eaa14a2f58be19a074143ea533f7f5581a17ec93fd4b83"
+    },
+    {
+      "id": "214",
+      "name": "咬1",
+      "path": "stickers/214_咬1.gif",
+      "size": 3377398,
+      "sha256": "82e8b2727fd8de3a4dbe874277b1aaf923eeebabe48a2964ed266a89abbee3cf"
+    },
+    {
+      "id": "215",
+      "name": "咬2",
+      "path": "stickers/215_咬2.gif",
+      "size": 760481,
+      "sha256": "a6790d7cc1a1931150f62a6a19c0b08f7d3b78f9d2ac3321c0d0d117639f7c1e"
+    },
+    {
+      "id": "216",
+      "name": "害怕(十字架)",
+      "path": "stickers/216_害怕(十字架).gif",
+      "size": 3365413,
+      "sha256": "3786e607b801bdb22a4de7e916769804febeb3a51290a119191da2da445b0f31"
+    },
+    {
+      "id": "217",
+      "name": "拍桌(右手帧)",
+      "path": "stickers/217_拍桌(右手帧).gif",
+      "size": 697403,
+      "sha256": "96e8de666a6323474763812110ca36aa714e4ee10a943b26d651a4de501bb528"
+    },
+    {
+      "id": "218",
+      "name": "拍桌(左手帧)",
+      "path": "stickers/218_拍桌(左手帧).gif",
+      "size": 687049,
+      "sha256": "7345cd1e5a503daddc69a30bf06833c3b6f2f32faa76503f6e39ce65f2114b3f"
+    },
+    {
+      "id": "219",
+      "name": "拍桌(帧)",
+      "path": "stickers/219_拍桌(帧).gif",
+      "size": 694867,
+      "sha256": "ee77c74f595a1b0879a949cb8ad79d8c3acc3405626bd36c5467a46039d014d9"
+    },
+    {
+      "id": "220",
+      "name": "拍桌(平滑)",
+      "path": "stickers/220_拍桌(平滑).gif",
+      "size": 669844,
+      "sha256": "af18f5bf03dc2a8dce91cd5fbd700b6a8a90c5fa7c26b6ae4f5f2d1a51bc4c0e"
+    },
+    {
+      "id": "221",
+      "name": "汗水(擦1)",
+      "path": "stickers/221_汗水(擦1).gif",
+      "size": 1604612,
+      "sha256": "a53103eac90dcd03110dd742a10aa9fcf1f9682e93abddc7e2acfc0fd017c8db"
+    },
+    {
+      "id": "222",
+      "name": "汗水(擦2)",
+      "path": "stickers/222_汗水(擦2).gif",
+      "size": 1575896,
+      "sha256": "eace035d2bfd9b6fedb2bb4ed7fb4e7cf404a1bb386533964e53783e915c8911"
+    },
+    {
+      "id": "223",
+      "name": "生病(床)",
+      "path": "stickers/223_生病(床).gif",
+      "size": 4008167,
+      "sha256": "dd915c19a488d541d16d617a9855d900e05c4f57869ae1765e42a2cb0ead1472"
+    },
+    {
+      "id": "224",
+      "name": "生病",
+      "path": "stickers/224_生病.gif",
+      "size": 3159355,
+      "sha256": "cd90e98c407aa2fe79d7f06477987d21ee9bfc2d06d7905160bf206e16dcf428"
+    },
+    {
+      "id": "225",
+      "name": "电池(低电位)",
+      "path": "stickers/225_电池(低电位).gif",
+      "size": 2708111,
+      "sha256": "a223d666436d9f2747319021602593c9411e544ac349ea0b5aa421bb9fddd7ef"
+    },
+    {
+      "id": "226",
+      "name": "电池(充电)",
+      "path": "stickers/226_电池(充电).gif",
+      "size": 2733443,
+      "sha256": "740dc7ec270da0a673a8a289bfc13a9651f253ee56440cd26c7ffb3bfc86c71e"
+    },
+    {
+      "id": "227",
+      "name": "画画(普通)",
+      "path": "stickers/227_画画(普通).gif",
+      "size": 1681316,
+      "sha256": "6bdfee3898b282933f799a40111567a989d204ef6cf92275d3570d3075cf5ce3"
+    },
+    {
+      "id": "228",
+      "name": "画画(生气)",
+      "path": "stickers/228_画画(生气).gif",
+      "size": 380015,
+      "sha256": "90d21f1962087f7934e0db918ac972f6f2b53c82508141a5d5197d631db8364d"
+    },
+    {
+      "id": "229",
+      "name": "画画(疲惫)",
+      "path": "stickers/229_画画(疲惫).gif",
+      "size": 2801941,
+      "sha256": "8cf8dc51be8641ac459bb2b109233669dae4a0fce4bbd2c13cc0cfb5c5253d03"
+    },
+    {
+      "id": "230",
+      "name": "紧张3",
+      "path": "stickers/230_紧张3.gif",
+      "size": 1706193,
+      "sha256": "25631e61bdea15fe01c0bceccc13dd76de61393916cd169ba7f16c28a3a06cdb"
+    },
+    {
+      "id": "231",
+      "name": "脸红1",
+      "path": "stickers/231_脸红1.gif",
+      "size": 897705,
+      "sha256": "f1b559309d1a8864d57d83484f58195865dc2deb4499337fbbd7ca6c775577d8"
+    },
+    {
+      "id": "232",
+      "name": "脸红2",
+      "path": "stickers/232_脸红2.gif",
+      "size": 904194,
+      "sha256": "2b445c5b7c30e3caaa4ca76fc34a885551fba21ed1e63624173229936b9270c4"
+    },
+    {
+      "id": "233",
+      "name": "锅(搅拌1)",
+      "path": "stickers/233_锅(搅拌1).gif",
+      "size": 1111162,
+      "sha256": "ecd1ad3ad70754b610d5f3071d60a2a6189fa1c701eb72628776cff00cd131d0"
+    },
+    {
+      "id": "234",
+      "name": "锅(搅拌2)",
+      "path": "stickers/234_锅(搅拌2).gif",
+      "size": 1391152,
+      "sha256": "b52354b8de0f7370a62bd20f4e81ad33ecbfcc6d9047df3b6170a3cb06dee214"
+    },
+    {
+      "id": "235",
+      "name": "锅(魔法1)",
+      "path": "stickers/235_锅(魔法1).gif",
+      "size": 1121805,
+      "sha256": "d8590fff6023efffaba6b4f7a70eafcb0a5746ea43b1c2fca771f0a9fdfe3a1c"
+    },
+    {
+      "id": "236",
+      "name": "锅(魔法2)",
+      "path": "stickers/236_锅(魔法2).gif",
+      "size": 1392516,
+      "sha256": "7f2b9886e14470c3c2841bca44acac9ff55d8390881c8ea8ae48d59c146f84a7"
     }
   ]
 }
